@@ -1,0 +1,34 @@
+/* Navigation */
+#navbar{
+    
+    flex-direction: column;
+}
+#navbar::before{
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+}
+/* Home */
+#home{
+    height: 300px;
+    width: 100%;
+}
+
+#home::before{
+    height: 370px;
+    width: 100%;
+}
+/* Services */
+#services{
+    flex-direction: column;
+}
+
+#services .box{
+
+}
+
+/* Client */
+
+/* Contact */
+
+/* Footer */
